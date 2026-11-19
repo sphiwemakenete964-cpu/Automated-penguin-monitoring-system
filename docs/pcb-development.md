@@ -88,3 +88,79 @@ My work focused on PCB implementation and layout.
 
 The original circuit schematic and its electrical connections were kept unchanged, as instructed by the supervisor/project team.
 
+
+
+
+
+\---
+
+
+
+\## 5. Engineering Challenges
+
+
+
+During PCB development, several technical issues required investigation.
+
+
+
+\### Clearance Violations
+
+
+
+PCB clearance constraints had to be considered to prevent tracks and
+
+copper features from being placed too close to one another.
+
+
+
+\### Copper Zone Connectivity
+
+
+
+Copper zones were configured to provide the required connections.
+
+Issues involving zone connectivity and thermal relief connections
+
+required further investigation.
+
+
+
+\### Annular Ring Width
+
+
+
+Board design constraints, including annular ring width, were
+
+considered when checking the suitability of PCB footprints.
+
+
+
+\### PCB Design Rule Checking
+
+
+
+KiCad's Design Rules Checker (DRC) was used to identify potential
+
+layout issues and guide further investigation.
+
+
+
+\## 6. Technical Learning Outcomes
+
+
+
+This development process provided practical experience in:
+
+
+
+\- PCB layout and component placement.
+
+\- Electrical connectivity and copper zone configuration.
+
+\- PCB manufacturing constraints.
+
+\- Design-rule checking and troubleshooting.
+
+\- Translating an existing circuit into a physical PCB layout.
+

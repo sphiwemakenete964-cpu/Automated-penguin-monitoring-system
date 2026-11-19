@@ -49,6 +49,7 @@ Further documentation about the project and my contribution:
 - [PCB Development Process](docs/pcb-development.md)
 - [Engineering Skills and Tools](docs/skills-and-tools.md)
 - [My Project Contributions](docs/project-contributions.md)
+- [PCB Development Roadmap](docs/development-roadmap.md)
 
 ## Repository Structure
 

@@ -39,3 +39,24 @@ This repository documents the engineering work, hardware development and PCB des
 Sphiwe Makenete  
 Mechatronics Engineering  
 University of Cape Town
+
+---
+
+## Documentation
+
+Further documentation about the project and my contribution:
+
+- [PCB Development Process](docs/pcb-development.md)
+- [Engineering Skills and Tools](docs/skills-and-tools.md)
+
+## Repository Structure
+
+```text
+automated-penguin-monitoring-system/
+│
+├── README.md
+├── .gitignore
+│
+└── docs/
+    ├── pcb-development.md
+    └── skills-and-tools.md

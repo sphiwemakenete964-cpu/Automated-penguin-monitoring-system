@@ -24,9 +24,7 @@ The information is based on the APMS project manual.
 
 |---|---|---|---|
 
-| Arduino Nano Every | - | Microcontroller | To be added |
-
-| SIM800L | - | GSM communication | To be added |
+| Arduino Nano Every | - | Microcontroller | \[Official datasheet](https://docs.arduino.cc/resources/datasheets/ABX00028-datasheet.pdf) || | SIM800L | - | GSM communication | Exact module variant to be verified |
 
 | LM2596 | - | DC-DC voltage regulation | To be added |
 

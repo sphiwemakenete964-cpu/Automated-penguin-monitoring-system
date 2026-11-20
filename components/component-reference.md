@@ -38,9 +38,7 @@ The information is based on the APMS project manual.
 
 | Schottky diode | D2 | Programming circuit | To be added |
 
-| Zener diode | D1 | SIM800L circuit | To be added |
-
-
+| Zener diode | D1 | Voltage regulation and circuit protection | Exact part number and voltage rating not identified |
 
 \## References
 

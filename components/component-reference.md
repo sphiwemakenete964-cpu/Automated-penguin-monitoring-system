@@ -24,9 +24,13 @@ The information is based on the APMS project manual.
 
 |---|---|---|---|
 
-| Arduino Nano Every | - | Microcontroller | \[Official datasheet](https://docs.arduino.cc/resources/datasheets/ABX00028-datasheet.pdf) || | SIM800L | - | GSM communication | Exact module variant to be verified |
+| Arduino Nano Every | - | Microcontroller | \[Official datasheet](https://docs.arduino.cc/resources/datasheets/ABX00028-datasheet.pdf) || 
 
-| LM2596 | - | DC-DC step-down voltage regulation | \[Official TI datasheet](https://www.ti.com/lit/ds/symlink/lm2596.pdf) || K7805 | - | 5 | K7805 | - | 5 V DC-DC voltage regulation | \[Mornsun K78XX datasheet](https://www.mantech.co.za/Datasheets/Products/K78XX-1000.pdf) |
+| SIM800L | - | GSM communication | Exact module variant to be verified |
+
+| LM2596 | - | DC-DC step-down voltage regulation | \[Official TI datasheet](https://www.ti.com/lit/ds/symlink/lm2596.pdf) |
+
+| K7805 | - | 5 | K7805 | - | 5 V DC-DC voltage regulation | \[Mornsun K78XX datasheet](https://www.mantech.co.za/Datasheets/Products/K78XX-1000.pdf) |
 
 | LM35 | U5 | Temperature sensing | \[Official Texas Instruments datasheet](https://www.ti.com/lit/ds/symlink/lm35.pdf) |
 
@@ -39,6 +43,10 @@ The information is based on the APMS project manual.
 | Schottky diode | D2 | Reverse-current protection / circuit protection | Exact part number too be confirmed |
 
 | Zener diode | D1 | Voltage regulation and circuit protection | Exact part number and voltage rating to be confirmed |
+
+| Trimpot (variable resistor) | RV1 | Adjustable resistance for circuit calibration | Exact part number not identified |
+
+
 
 \## References
 

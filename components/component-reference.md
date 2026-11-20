@@ -30,9 +30,7 @@ The information is based on the APMS project manual.
 
 | LM35 | U5 | Temperature sensing | \[Official Texas Instruments datasheet](https://www.ti.com/lit/ds/symlink/lm35.pdf) |
 
-| Logic level shifter | U6 | Logic-level interfacing | To be added |
-
-| NPN transistor | Q1 | Signal-level interfacing | To be added |
+| Logic level shifter | U6 | Logic-level interfacing | Exact part number not identified || NPN transistor | Q1 | Signal-level interfacing | To be added |
 
 | Transistor | Q2 | Buzzer control | To be added |
 

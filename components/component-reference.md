@@ -34,7 +34,7 @@ The information is based on the APMS project manual.
 
 | NPN transistor | Q1 | Transistor switching / signal interfacing | Exact part number not identified |
 
-| Transistor | Q2 | Buzzer control | To be added |
+| Transistor | Q2 | Buzzer switching and control | Exact part number not identified |
 
 | Schottky diode | D2 | Programming circuit | To be added |
 

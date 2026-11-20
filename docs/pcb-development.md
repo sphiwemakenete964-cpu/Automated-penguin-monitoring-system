@@ -164,3 +164,33 @@ This development process provided practical experience in:
 
 \- Translating an existing circuit into a physical PCB layout.
 
+
+
+\## PCB Layout Workflow
+
+
+
+The PCB development process involved translating the supplied circuit schematic into a physical PCB layout using KiCad 10.
+
+
+
+The workflow included:
+
+
+
+1\. \*\*Footprint assignment:\*\* Selecting suitable PCB footprints for the components specified in the schematic.
+
+2\. \*\*Component placement:\*\* Arranging components while considering board dimensions, electrical connections, accessibility and practical layout constraints.
+
+3\. \*\*Board routing:\*\* Connecting component pads according to the schematic-defined electrical nets.
+
+4\. \*\*Copper zones:\*\* Using copper zones where appropriate to provide common electrical connections and improve routing efficiency.
+
+5\. \*\*Design rule checking:\*\* Reviewing PCB design-rule-check (DRC) results to identify issues such as clearance violations and incomplete zone connections.
+
+6\. \*\*Layout refinement:\*\* Adjusting component positions, track routing and clearances to improve the overall PCB layout.
+
+
+
+This process provided practical experience in PCB implementation, electrical connectivity, component footprint selection and the importance of design-rule verification.
+

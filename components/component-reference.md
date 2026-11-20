@@ -30,15 +30,15 @@ The information is based on the APMS project manual.
 
 | LM35 | U5 | Temperature sensing | \[Official Texas Instruments datasheet](https://www.ti.com/lit/ds/symlink/lm35.pdf) |
 
-| Logic level shifter | U6 | Logic-level interfacing | Exact part number not identified |
+| Logic level shifter | U6 | Logic-level interfacing | Exact part number to be confirmed |
 
-| NPN transistor | Q1 | Transistor switching / signal interfacing | Exact part number not identified |
+| NPN transistor | Q1 | Transistor switching / signal interfacing | Exact part number to be confirmed |
 
-| Transistor | Q2 | Buzzer switching and control | Exact part number not identified |
+| Transistor | Q2 | Buzzer switching and control | Exact part number to be confirmed |
 
-| Schottky diode | D2 | Programming circuit | To be added |
+| Schottky diode | D2 | Reverse-current protection / circuit protection | Exact part number too be confirmed |
 
-| Zener diode | D1 | Voltage regulation and circuit protection | Exact part number and voltage rating not identified |
+| Zener diode | D1 | Voltage regulation and circuit protection | Exact part number and voltage rating to be confirmed |
 
 \## References
 
